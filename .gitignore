@@ -1,0 +1,8 @@
+# conf files
+*.yml
+
+# notebooks
+*.ipynb
+
+# csv file
+*.csv
