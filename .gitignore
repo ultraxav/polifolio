@@ -4,5 +4,7 @@
 # notebooks
 *.ipynb
 
-# csv file
+# csv files
 *.csv
+
+# parquet files
