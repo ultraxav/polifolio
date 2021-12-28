@@ -1,9 +1,11 @@
 # pip install -r requirements.txt
 
 jupyter==1.0.0
+jupyter_contrib_nbextensions==0.5.1 # remember jupyter contrib nbextension install --user
 jupytext==1.13.2
 pandas==1.0.3
 pre-commit==2.16.0
 pycoingecko==2.2.0
+python-binance==1.0.15
 PyYAML==6.0
 tqdm==4.62.3
